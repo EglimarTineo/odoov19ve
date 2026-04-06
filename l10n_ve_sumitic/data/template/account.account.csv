@@ -1,0 +1,29 @@
+id,code,name,account_type,reconcile
+sumitic_ve_110101,110101,CAJA PRINCIPAL BS,asset_cash,True
+sumitic_ve_110102,110102,BANCO NACIONAL BS,asset_cash,True
+sumitic_ve_110103,110103,BANCO CUSTODIA USD,asset_cash,True
+sumitic_ve_110301,110301,CLIENTES NACIONALES BS,asset_receivable,True
+sumitic_ve_110302,110302,CLIENTES NACIONALES USD,asset_receivable,True
+sumitic_ve_110303,110303,ANTICIPOS A PROVEEDORES BS,asset_receivable,True
+sumitic_ve_110304,110304,ANTICIPOS A PROVEEDORES USD,asset_receivable,True
+sumitic_ve_110501,110501,IVA CREDITO FISCAL,asset_current,True
+sumitic_ve_110502,110502,RETENCIONES DE IVA ACUMULADAS (75-100),asset_current,True
+sumitic_ve_110503,110503,ANTICIPOS DE ISLR (RETENCIONES RECIBIDAS),asset_current,True
+sumitic_ve_110504,110504,EXCESO DE IGTF POR RECUPERAR,asset_current,True
+sumitic_ve_1201,1201,PROPIEDADES PLANTA Y EQUIPO,asset_fixed,False
+sumitic_ve_210101,210101,PROVEEDORES NACIONALES BS,liability_payable,True
+sumitic_ve_210102,210102,ANTICIPOS DE CLIENTES BS,liability_payable,True
+sumitic_ve_210103,210103,ANTICIPOS DE CLIENTES USD,liability_payable,True
+sumitic_ve_210201,210201,IVA DEBITO FISCAL,liability_current,True
+sumitic_ve_210202,210202,IGTF POR ENTERAR (PERCIBIDO 3%),liability_current,True
+sumitic_ve_210203,210203,RETENCIONES IVA POR ENTERAR (A PROVEEDORES),liability_current,True
+sumitic_ve_210204,210204,RETENCIONES ISLR POR ENTERAR (A TERCEROS),liability_current,True
+sumitic_ve_210205,210205,CONTRIBUCION ESPECIAL DE PENSIONES,liability_current,True
+sumitic_ve_3101,3101,CAPITAL SOCIAL,equity,False
+sumitic_ve_4101,4101,VENTAS GRAVADAS ALICUOTA GENERAL (16%),income,False
+sumitic_ve_4102,4102,VENTAS EXENTAS Y/O EXONERADAS,income,False
+sumitic_ve_4103,4103,INGRESOS POR DIFERENCIA EN CAMBIO,income,False
+sumitic_ve_5101,5101,COSTO DE VENTAS,expense,False
+sumitic_ve_5201,5201,GASTOS DE NOMINA Y SALARIOS,expense,False
+sumitic_ve_5202,5202,GASTO IGTF 3% (PAGADO DEDUCIBLE),expense,False
+sumitic_ve_5204,5204,GASTOS POR DIFERENCIA EN CAMBIO,expense,False
